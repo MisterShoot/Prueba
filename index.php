@@ -9,9 +9,9 @@ if($X = 0){
 }
 
 if($i > 1){
-	echo "Puto";
+	echo "Hello, Men"
 }else{
-	echo "L@ chupon@";
+	echo "OK
 }
 
 

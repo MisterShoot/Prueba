@@ -11,7 +11,7 @@ if($X = 0){
 if($i > 1){
 	echo "Puto";
 }else{
-	echo "Ok";
+	echo "L@ chupon@";
 }
 
 
